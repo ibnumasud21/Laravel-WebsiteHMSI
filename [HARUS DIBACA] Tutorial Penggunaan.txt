@@ -1,0 +1,30 @@
+IMPORTANT  |1. File websitehmsi adalah file yang digunakan dalam tutorial ini.                      |
+	   |2. Untuk File tanpa middleware tidak perlu memasukkan email dan password seperti dibawah|
+	 
+Pertama,
+	->Import database hmsi.sql ke dalam MySQL.
+Kedua, 
+	->Masukkan folder website hmsi ke dalam folder C:\xampp\htdocs
+
+PERINGATAN : 1. Beberapa table dalam database hmsi.sql tidak dibuat melalui migration, namun secara manual.
+	     2. Tidak terdapat registrasi dalam project ini, maka untuk login admin dibuat akun secara manual melalui MySQL
+		pada table users.
+
+Adapun email dan password adalah sebagai berikut : 
+
+LANGKAH 1. Masukkan data berikut 
+	   Email : ibnumasud11112@gmail.com
+	   Password : $2y$10$kXTbxQqigyvV0etpfBzj0OymmEIdFQ5nouVfuTQ3LiWJia2Hhui3i
+
+SETELAH MEMASUKKAN DATA SEPERTI DIATAS,
+
+LANGKAH 2. Login menggunakan email dan password dengan menekan tombol login sebagai berikut :
+	   Email : ibnumasud11112@gmail.com
+	   Password : ibnumasud21
+
+NOTE : Password yang dimasukkan diatas adalah password enkripsi yang disediakan oleh laravel yang saya dapatkan melalui
+       menu registrasi yang saya dapatkan sebelumnya. 
+
+       -------------------------------------------------------------------------------------------------------
+       -----------> Registrasi sudah saya hapus dikarenakan user tidak dapat menambahkan data <---------------
+       -------------------------------------------------------------------------------------------------------
